@@ -1,0 +1,80 @@
+
+html{
+   background-image: url(img/car2.jpg);
+   background-repeat: no-repeat;
+   width: 100%;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+h1{
+  padding-left: 20px;
+  font-size: 3.5em;
+  color:  whitesmoke;
+  
+}
+h2{
+     font-size: 2em;
+     color:  whitesmoke;
+}
+
+.wrapper{
+    padding-left: 20px;
+    color:  whitesmoke;
+    font-size: 1.5em;
+    display: flex;
+    
+}
+
+.task{
+    width: 300px;
+}
+
+.check{
+    padding-right: 10px;
+}
+
+.meddelande{
+    display: flex;
+    text-align: center;
+}
+
+p{
+    color:  whitesmoke;
+    
+}
+i{
+   color: #001a1a;  
+}
+
+input[type=text]{
+   background-color: whitesmoke; 
+   font-size: 1em;
+   color: black;
+   letter-spacing: 0.05em;
+   //border:solid black;  
+}
+
+input[type=submit] {
+   background-color: whitesmoke; 
+   color: black;
+   //border: solid black;
+   margin-bottom: 10px;
+}
+
+.completed{
+ color: #D9B101;
+ padding-left: 20px;
+}
+a{
+    padding-left: 10px;
+    color:#D9B101;
+}
+
+.addtask{
+    padding-left:20px;
+}
+
+.b .a{
+   padding-left:2px;
+}
