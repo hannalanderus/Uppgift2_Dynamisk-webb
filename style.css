@@ -19,7 +19,6 @@ h1{
 h2{
      font-size: 2em;
      color:  whitesmoke;
-     //font-family: 'Gloria Hallelujah', cursive;
 }
 
 .wrapper{
@@ -27,8 +26,6 @@ h2{
     color:  whitesmoke;
     font-size: 1.5em;
     display: flex;
-    //font-family: 'Gloria Hallelujah', cursive;
-    
 }
 
 .task{
@@ -49,16 +46,11 @@ p{
     color:  whitesmoke;
     
 }
-i{
-    //font-family: 'Gloria Hallelujah', cursive;
-   
-}
 
 input[type=text] {
    background-color: whitesmoke; 
    font-size: 1em;
    letter-spacing: 0.05em; 
-   //font-family: 'Gloria Hallelujah', cursive;
 }
 
 input[type=submit] {
@@ -78,7 +70,6 @@ input[type=submit] {
 a{
     padding-left: 10px;
     color:#D9B101;
-    //font-family: 'Gloria Hallelujah', cursive;
     font-size: 1em;
 }
 
@@ -91,8 +82,4 @@ a{
    padding-left:2px;
 }
 
-h4{
-    color:whitesmoke;
-    //font-family: 'Gloria Hallelujah', cursive;
-    font-size: 1.5em;
-}
+
