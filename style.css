@@ -11,11 +11,13 @@ h1{
   padding-left: 20px;
   font-size: 3.5em;
   color:  whitesmoke;
+  font-family: 'Gloria Hallelujah', cursive;
   
 }
 h2{
      font-size: 2em;
      color:  whitesmoke;
+     font-family: 'Gloria Hallelujah', cursive;
 }
 
 .wrapper{
@@ -23,15 +25,17 @@ h2{
     color:  whitesmoke;
     font-size: 1.5em;
     display: flex;
+    font-family: 'Gloria Hallelujah', cursive;
     
 }
 
 .task{
-    width: 300px;
+    width: 350px;
 }
 
 .check{
     padding-right: 10px;
+    
 }
 
 .meddelande{
@@ -44,37 +48,43 @@ p{
     
 }
 i{
-   color: #001a1a;  
+    font-family: 'Gloria Hallelujah', cursive;
+   
 }
 
-input[type=text]{
+input[type=text] {
    background-color: whitesmoke; 
    font-size: 1em;
-   color: black;
-   letter-spacing: 0.05em;
-   //border:solid black;  
+   letter-spacing: 0.05em; 
+   font-family: 'Gloria Hallelujah', cursive;
 }
 
 input[type=submit] {
    background-color: whitesmoke; 
-   color: black;
-   //border: solid black;
+   font-family: 'Gloria Hallelujah', cursive;
    margin-bottom: 10px;
+
 }
 
 .completed{
  color: #D9B101;
  padding-left: 20px;
+ font-family: 'Gloria Hallelujah', cursive;
+ font-size: 1.5em;
+ padding: 10px;
 }
 a{
     padding-left: 10px;
     color:#D9B101;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1em;
 }
 
 .addtask{
     padding-left:20px;
+    font-family: 'Gloria Hallelujah', cursive;
 }
 
-.b .a{
+.do .by{
    padding-left:2px;
 }
