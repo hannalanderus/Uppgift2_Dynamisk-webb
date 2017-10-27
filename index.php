@@ -8,6 +8,7 @@
     require 'add.php';
     require 'Delete.php';
     require 'Complete.php';
+    
   ?>
   
   <!--meddelande som visas när ny uppgift lagts till, se koppling i add.php-->
@@ -72,9 +73,12 @@
        }  
    ?>
 </div>
+ <?php
+    require 'footer.php';
     
+    ?>
     
 </body>
-</html>
+
 
 
